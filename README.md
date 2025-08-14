@@ -20,8 +20,8 @@ This project explores customer sentiment from Amazon reviews on earbuds—lookin
 
 
 
-🔗 Links
-[Power BI Dashboard](https://lnkd.in/dCjEUfHF)
+🔗 Link
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDBkMjM5ZjUtM2RjZC00ODNjLTg2ZmYtNTljYjU5Y2Y1MzdhIiwidCI6Ijc3ZGJjZTk5LTYwNTQtNGFiYS04MjUwLTE5YzBlZmI0MzE4ZCJ9)
 
 ## Tools
 - Oxylabs API
