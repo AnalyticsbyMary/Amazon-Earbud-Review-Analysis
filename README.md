@@ -13,12 +13,9 @@ This project explores customer sentiment from Amazon reviews on earbuds—lookin
 
 - Visualization: Power BI was used to create a dashboard split into three pages: Product Overview, Rating Analysis, Review Details
   
-<img width="1149" height="651" alt="Screenshot 2025-08-04 003238" src="https://github.com/user-attachments/assets/fdfbc6a7-27e9-4470-813a-e3e9a6ab54bf" />
-<img width="1153" height="656" alt="Screenshot 2025-08-04 011708" src="https://github.com/user-attachments/assets/5a412740-ba59-437b-afcd-1a38e5929ad9" />
-<img width="1153" height="655" alt="Screenshot 2025-08-04 011945" src="https://github.com/user-attachments/assets/53c44997-a24e-4efd-b301-bcd060ed493d" />
-
-
-
+<img width="837" height="481" alt="Review Details" src="https://github.com/user-attachments/assets/c3b11a0c-6272-45f5-8111-ed6c6a95b97f" />
+<img width="833" height="482" alt="Rating Analysis" src="https://github.com/user-attachments/assets/de50cec6-3f83-4711-b88d-ee6713927355" />
+<img width="831" height="483" alt="Earbud Overview" src="https://github.com/user-attachments/assets/13e5deb9-bbb6-4b10-a7e3-6ec7e1b549cd" />
 
 🔗 Link
 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDBkMjM5ZjUtM2RjZC00ODNjLTg2ZmYtNTljYjU5Y2Y1MzdhIiwidCI6Ijc3ZGJjZTk5LTYwNTQtNGFiYS04MjUwLTE5YzBlZmI0MzE4ZCJ9)
